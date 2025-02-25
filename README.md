@@ -15,7 +15,7 @@ Passionate about Full Stack and Mobile Development. Seeking an internship to app
 
 ## Wanna read my articles?
 
-* [Medium](https://pathum.medium.com/)
+* [Medium](https://medium.com/@pathumsankalpaps)
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/pathum-sankalpa-903741215)
